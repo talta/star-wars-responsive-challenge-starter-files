@@ -1,0 +1,29 @@
+*{
+	border: 1px solid red;
+}
+
+nav{
+	background-color: gold; 
+	position: fixed;
+	width:100%;
+	top:0;
+}
+
+img{
+	text-align: center;
+	padding-top: 7.5 rem;
+	width: 100%;
+	height: 100px;
+}
+
+main{
+	margin: 150px 50px;
+}
+
+
+.card_wrap{
+	height: 200px;
+	border: 1px solid grey;
+	max-width: 33.33%;
+	padding-top: 15.5 rem;
+}
