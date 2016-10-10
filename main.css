@@ -17,13 +17,24 @@ img{
 }
 
 main{
+<<<<<<< HEAD
 	margin: 500px 50px;
 }
 
 /*
+=======
+	margin: 150px 50px;
+}
+
+
+>>>>>>> 32c19dddcf38497f36b2fef322e1c5ee10140e45
 .card_wrap{
 	height: 200px;
 	border: 1px solid grey;
 	max-width: 33.33%;
 	padding-top: 15.5 rem;
+<<<<<<< HEAD
 }*/
+=======
+}
+>>>>>>> 32c19dddcf38497f36b2fef322e1c5ee10140e45
