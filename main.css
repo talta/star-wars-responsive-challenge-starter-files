@@ -9,16 +9,21 @@ header{
 	position: fixed;
 	width:100%;
 	top:0;
+	text-indent: 50px;
 }
 
 
 .card_wrap{
 	border: 1px solid grey;
-	margin: 100px;
+	margin: 10px;
 }
 
 
 .card-image{
 	width: 100%;
 	border:1px solid grey;
+}
+
+.card_wrap h1, p{
+	margin-left: 15px; 
 }
